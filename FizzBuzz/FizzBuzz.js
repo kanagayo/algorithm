@@ -29,4 +29,4 @@ class FizzBuzz {
 }
 
 const fz = new FizzBuzz();
-fz.fizzbuzz();
+fz.fizzbuzz();fg
